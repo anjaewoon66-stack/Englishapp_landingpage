@@ -1,0 +1,77 @@
+[
+  {
+    "id": "vocab_001",
+    "word": "study",
+    "meaning": "공부하다",
+    "pronunciation": "/ˈstʌdi/",
+    "exampleSentences": [
+      "I study English every day.",
+      "She is studying for her exam."
+    ],
+    "partOfSpeech": "verb",
+    "category": "beginner",
+    "isMemorized": false,
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "vocab_002",
+    "word": "learn",
+    "meaning": "배우다",
+    "pronunciation": "/lɜːrn/",
+    "exampleSentences": [
+      "I want to learn Korean.",
+      "He learns quickly."
+    ],
+    "partOfSpeech": "verb",
+    "category": "beginner",
+    "isMemorized": false,
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "vocab_003",
+    "word": "practice",
+    "meaning": "연습하다",
+    "pronunciation": "/ˈpræktɪs/",
+    "exampleSentences": [
+      "Practice makes perfect.",
+      "I practice speaking English daily."
+    ],
+    "partOfSpeech": "verb",
+    "category": "beginner",
+    "isMemorized": false,
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "vocab_004",
+    "word": "understand",
+    "meaning": "이해하다",
+    "pronunciation": "/ˌʌndərˈstænd/",
+    "exampleSentences": [
+      "Do you understand this lesson?",
+      "I don't understand the question."
+    ],
+    "partOfSpeech": "verb",
+    "category": "intermediate",
+    "isMemorized": false,
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "vocab_005",
+    "word": "improve",
+    "meaning": "향상시키다",
+    "pronunciation": "/ɪmˈpruːv/",
+    "exampleSentences": [
+      "I want to improve my English.",
+      "Her skills have improved a lot."
+    ],
+    "partOfSpeech": "verb",
+    "category": "intermediate",
+    "isMemorized": false,
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "grammar_001",
+    "title": "Present Simple Tense",
+    "explanation": "현재 시제는 습관적인 행동이나 일반적인 사실을 표현할 때 사용합니다.",
+    "rules": [
+      "주어 + 동사원형 (3인칭 단수는 -s/-es)",
+      "긍정문: I study / He studies",
+      "부정문: I don't study / He doesn't study",
+      "의문문: Do you study? / Does he study?"
+    ],
+    "exampleSentences": [
+      "I study English every day.",
+      "She works at a hospital.",
+      "They don't like coffee.",
+      "Do you speak Korean?"
+    ],
+    "category": "tense",
+    "level": "beginner",
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "grammar_002",
+    "title": "Present Continuous Tense",
+    "explanation": "현재 진행형은 지금 진행 중인 행동을 나타낼 때 사용합니다.",
+    "rules": [
+      "주어 + am/is/are + 동사-ing",
+      "긍정문: I am studying",
+      "부정문: I am not studying",
+      "의문문: Are you studying?"
+    ],
+    "exampleSentences": [
+      "I am studying English now.",
+      "She is working on her project.",
+      "They are not watching TV.",
+      "What are you doing?"
+    ],
+    "category": "tense",
+    "level": "beginner",
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "grammar_003",
+    "title": "Present Perfect Tense",
+    "explanation": "현재완료는 과거에 시작된 일이 현재까지 영향을 미치거나 완료되었음을 나타냅니다.",
+    "rules": [
+      "주어 + have/has + 과거분사",
+      "긍정문: I have studied",
+      "부정문: I have not studied",
+      "의문문: Have you studied?"
+    ],
+    "exampleSentences": [
+      "I have lived in Seoul for 5 years.",
+      "She has finished her homework.",
+      "They haven't eaten lunch yet.",
+      "Have you ever been to Japan?"
+    ],
+    "category": "tense",
+    "level": "intermediate",
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  }
+]
