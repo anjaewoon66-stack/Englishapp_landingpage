@@ -43,27 +43,6 @@
   },
   {
     "id": "grammar_003",
-    "title": "Present Perfect Tense",
-    "explanation": "현재완료는 과거에 시작된 일이 현재까지 영향을 미치거나 완료되었음을 나타냅니다.",
-    "rules": [
-      "주어 + have/has + 과거분사",
-      "긍정문: I have studied",
-      "부정문: I have not studied",
-      "의문문: Have you studied?"
-    ],
-    "exampleSentences": [
-      "I have lived in Seoul for 5 years.",
-      "She has finished her homework.",
-      "They haven't eaten lunch yet.",
-      "Have you ever been to Japan?"
-    ],
-    "category": "tense",
-    "level": "intermediate",
-    "isDefault": true,
-    "createdAt": "2024-01-01T00:00:00.000Z"
-  },
-  {
-    "id": "grammar_004",
     "title": "Past Simple Tense",
     "explanation": "과거 시제는 과거에 일어난 일을 표현할 때 사용합니다.",
     "rules": [
@@ -84,7 +63,7 @@
     "createdAt": "2024-01-01T00:00:00.000Z"
   },
   {
-    "id": "grammar_005",
+    "id": "grammar_004",
     "title": "Future Tense (will)",
     "explanation": "미래 시제는 미래에 일어날 일을 표현할 때 사용합니다.",
     "rules": [
@@ -105,7 +84,154 @@
     "createdAt": "2024-01-01T00:00:00.000Z"
   },
   {
+    "id": "grammar_005",
+    "title": "Articles (a, an, the)",
+    "explanation": "관사는 명사 앞에 사용하여 특정성을 나타냅니다.",
+    "rules": [
+      "a/an: 불특정 단수 명사",
+      "the: 특정 명사",
+      "a는 자음 앞, an은 모음 앞"
+    ],
+    "exampleSentences": [
+      "I have a book.",
+      "She ate an apple.",
+      "The book on the table is mine.",
+      "He is a doctor."
+    ],
+    "category": "basic",
+    "level": "beginner",
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
     "id": "grammar_006",
+    "title": "Prepositions of Time",
+    "explanation": "시간 전치사는 시간을 나타낼 때 사용합니다.",
+    "rules": [
+      "at: 특정 시각 (at 3 o'clock)",
+      "on: 요일, 날짜 (on Monday)",
+      "in: 월, 년, 계절 (in June, in 2024)"
+    ],
+    "exampleSentences": [
+      "I wake up at 7 AM.",
+      "My birthday is on May 5th.",
+      "We go swimming in summer.",
+      "She was born in 1990."
+    ],
+    "category": "basic",
+    "level": "beginner",
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "grammar_007",
+    "title": "Pronouns",
+    "explanation": "대명사는 명사를 대신하여 사용하는 단어입니다.",
+    "rules": [
+      "주격: I, you, he, she, it, we, they",
+      "목적격: me, you, him, her, it, us, them",
+      "소유격: my, your, his, her, its, our, their"
+    ],
+    "exampleSentences": [
+      "I like him, but he doesn't like me.",
+      "This is my book, not yours.",
+      "She gave them her phone number.",
+      "It is their house."
+    ],
+    "category": "basic",
+    "level": "beginner",
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "grammar_008",
+    "title": "Question Words",
+    "explanation": "의문사는 질문을 만들 때 사용합니다.",
+    "rules": [
+      "What: 무엇",
+      "Who: 누구",
+      "Where: 어디",
+      "When: 언제",
+      "Why: 왜",
+      "How: 어떻게"
+    ],
+    "exampleSentences": [
+      "What is your name?",
+      "Who is that person?",
+      "Where do you live?",
+      "When did you arrive?",
+      "Why are you sad?",
+      "How do you do this?"
+    ],
+    "category": "basic",
+    "level": "beginner",
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "grammar_009",
+    "title": "Plural Nouns",
+    "explanation": "복수 명사는 둘 이상의 사물을 나타낼 때 사용합니다.",
+    "rules": [
+      "보통 명사: -s 추가 (book → books)",
+      "-s, -x, -ch, -sh로 끝나는 명사: -es 추가 (box → boxes)",
+      "자음+y로 끝나는 명사: y를 i로 바꾸고 -es (city → cities)",
+      "불규칙: child → children, person → people"
+    ],
+    "exampleSentences": [
+      "I have three books.",
+      "There are many boxes in the room.",
+      "Two children are playing.",
+      "Many people like this."
+    ],
+    "category": "basic",
+    "level": "beginner",
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "grammar_010",
+    "title": "Possessive Forms",
+    "explanation": "소유격은 소유 관계를 나타낼 때 사용합니다.",
+    "rules": [
+      "단수 명사: 's 추가 (Tom's book)",
+      "복수 명사(-s로 끝): ' 추가 (students' books)",
+      "불규칙 복수: 's 추가 (children's toys)"
+    ],
+    "exampleSentences": [
+      "This is Mary's car.",
+      "The teachers' room is on the second floor.",
+      "The children's playground is big.",
+      "My brother's friend is nice."
+    ],
+    "category": "basic",
+    "level": "beginner",
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "grammar_011",
+    "title": "Present Perfect Tense",
+    "explanation": "현재완료는 과거에 시작된 일이 현재까지 영향을 미치거나 완료되었음을 나타냅니다.",
+    "rules": [
+      "주어 + have/has + 과거분사",
+      "긍정문: I have studied",
+      "부정문: I have not studied",
+      "의문문: Have you studied?"
+    ],
+    "exampleSentences": [
+      "I have lived in Seoul for 5 years.",
+      "She has finished her homework.",
+      "They haven't eaten lunch yet.",
+      "Have you ever been to Japan?"
+    ],
+    "category": "tense",
+    "level": "intermediate",
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "grammar_012",
     "title": "Comparatives and Superlatives",
     "explanation": "비교급과 최상급은 둘 이상을 비교할 때 사용합니다.",
     "rules": [
@@ -125,7 +251,7 @@
     "createdAt": "2024-01-01T00:00:00.000Z"
   },
   {
-    "id": "grammar_007",
+    "id": "grammar_013",
     "title": "Modal Verbs (can, should, must)",
     "explanation": "조동사는 가능성, 의무, 허가 등을 나타낼 때 사용합니다.",
     "rules": [
@@ -140,13 +266,13 @@
       "We must finish this today.",
       "Can you help me?"
     ],
-    "category": "modals",
+    "category": "modal",
     "level": "intermediate",
     "isDefault": true,
     "createdAt": "2024-01-01T00:00:00.000Z"
   },
   {
-    "id": "grammar_008",
+    "id": "grammar_014",
     "title": "Conditional Sentences (Type 1)",
     "explanation": "조건문은 특정 조건이 충족될 때 일어날 일을 표현합니다.",
     "rules": [
@@ -160,13 +286,133 @@
       "We will go to the beach if the weather is nice.",
       "When I finish my homework, I will watch TV."
     ],
-    "category": "conditionals",
+    "category": "conditional",
     "level": "intermediate",
     "isDefault": true,
     "createdAt": "2024-01-01T00:00:00.000Z"
   },
   {
-    "id": "grammar_009",
+    "id": "grammar_015",
+    "title": "Past Continuous Tense",
+    "explanation": "과거 진행형은 과거의 특정 시점에 진행 중이던 행동을 나타냅니다.",
+    "rules": [
+      "주어 + was/were + 동사-ing",
+      "과거의 진행 중인 행동",
+      "과거의 배경 설명"
+    ],
+    "exampleSentences": [
+      "I was studying when you called.",
+      "They were playing soccer at 5 PM.",
+      "She wasn't listening to the teacher.",
+      "What were you doing yesterday?"
+    ],
+    "category": "tense",
+    "level": "intermediate",
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "grammar_016",
+    "title": "Used to",
+    "explanation": "Used to는 과거의 습관이나 상태를 나타낼 때 사용합니다.",
+    "rules": [
+      "주어 + used to + 동사원형",
+      "과거의 습관 (지금은 하지 않음)",
+      "과거의 상태 (지금은 아님)"
+    ],
+    "exampleSentences": [
+      "I used to play tennis when I was young.",
+      "She used to live in New York.",
+      "We didn't use to have smartphones.",
+      "Did you use to study French?"
+    ],
+    "category": "tense",
+    "level": "intermediate",
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "grammar_017",
+    "title": "Too and Enough",
+    "explanation": "Too와 enough는 정도를 나타낼 때 사용합니다.",
+    "rules": [
+      "too + 형용사/부사: 너무 ~해서",
+      "형용사/부사 + enough: 충분히 ~한",
+      "enough + 명사: 충분한 ~"
+    ],
+    "exampleSentences": [
+      "This coffee is too hot to drink.",
+      "She is old enough to drive.",
+      "I don't have enough money.",
+      "He speaks too fast."
+    ],
+    "category": "adjectives",
+    "level": "intermediate",
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "grammar_018",
+    "title": "Adverbs of Frequency",
+    "explanation": "빈도 부사는 행동의 빈도를 나타낼 때 사용합니다.",
+    "rules": [
+      "always, usually, often, sometimes, rarely, never",
+      "일반동사 앞, be동사 뒤에 위치",
+      "문장 앞이나 뒤에도 올 수 있음"
+    ],
+    "exampleSentences": [
+      "I always brush my teeth before bed.",
+      "She is usually late.",
+      "We sometimes go to the movies.",
+      "They never eat fast food."
+    ],
+    "category": "adverbs",
+    "level": "intermediate",
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "grammar_019",
+    "title": "Some and Any",
+    "explanation": "Some과 any는 불특정 수량을 나타낼 때 사용합니다.",
+    "rules": [
+      "some: 긍정문, 권유/요청의 의문문",
+      "any: 부정문, 의문문",
+      "가산/불가산 명사 모두 사용 가능"
+    ],
+    "exampleSentences": [
+      "I have some friends in Seoul.",
+      "Do you have any questions?",
+      "There isn't any milk in the fridge.",
+      "Would you like some coffee?"
+    ],
+    "category": "determiners",
+    "level": "intermediate",
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "grammar_020",
+    "title": "Future Forms (going to)",
+    "explanation": "Be going to는 계획된 미래 행동을 나타낼 때 사용합니다.",
+    "rules": [
+      "주어 + am/is/are + going to + 동사원형",
+      "계획된 미래",
+      "확실한 미래 예측"
+    ],
+    "exampleSentences": [
+      "I am going to visit my grandmother tomorrow.",
+      "She is going to study abroad next year.",
+      "It's going to rain soon.",
+      "Are you going to buy a new car?"
+    ],
+    "category": "tense",
+    "level": "intermediate",
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "grammar_021",
     "title": "Passive Voice",
     "explanation": "수동태는 행동의 대상을 강조할 때 사용합니다.",
     "rules": [
@@ -181,13 +427,13 @@
       "The homework will be checked tomorrow.",
       "The house is being built now."
     ],
-    "category": "voice",
+    "category": "passive",
     "level": "advanced",
     "isDefault": true,
     "createdAt": "2024-01-01T00:00:00.000Z"
   },
   {
-    "id": "grammar_010",
+    "id": "grammar_022",
     "title": "Reported Speech",
     "explanation": "간접화법은 다른 사람이 한 말을 전달할 때 사용합니다.",
     "rules": [
@@ -200,20 +446,21 @@
       "She told me, 'I will help you.' → She told me (that) she would help me.",
       "They said, 'We can do it.' → They said (that) they could do it."
     ],
-    "category": "speech",
+    "category": "other",
     "level": "advanced",
     "isDefault": true,
     "createdAt": "2024-01-01T00:00:00.000Z"
   },
   {
-    "id": "grammar_011",
+    "id": "grammar_023",
     "title": "Relative Clauses",
     "explanation": "관계절은 명사를 수식하는 절입니다.",
     "rules": [
       "who: 사람",
       "which: 사물",
       "that: 사람/사물",
-      "where: 장소"
+      "where: 장소",
+      "when: 시간"
     ],
     "exampleSentences": [
       "The person who called you is my friend.",
@@ -221,13 +468,13 @@
       "Seoul is the city where I was born.",
       "I know a teacher that speaks five languages."
     ],
-    "category": "clauses",
+    "category": "other",
     "level": "advanced",
     "isDefault": true,
     "createdAt": "2024-01-01T00:00:00.000Z"
   },
   {
-    "id": "grammar_012",
+    "id": "grammar_024",
     "title": "Gerunds and Infinitives",
     "explanation": "동명사와 부정사는 동사를 명사처럼 사용하는 방법입니다.",
     "rules": [
@@ -242,7 +489,127 @@
       "She likes swimming. (동명사)",
       "They decided to go home. (부정사)"
     ],
-    "category": "verbals",
+    "category": "other",
+    "level": "advanced",
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "grammar_025",
+    "title": "Conditional Sentences (Type 2)",
+    "explanation": "가정법 과거는 현재 사실과 반대되는 가정을 나타냅니다.",
+    "rules": [
+      "If + 과거 시제, would + 동사원형",
+      "현재 사실과 반대되는 가정",
+      "실현 가능성이 낮은 상황"
+    ],
+    "exampleSentences": [
+      "If I were rich, I would travel the world.",
+      "If she studied harder, she would pass the exam.",
+      "What would you do if you won the lottery?",
+      "If I had more time, I would learn another language."
+    ],
+    "category": "conditional",
+    "level": "advanced",
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "grammar_026",
+    "title": "Present Perfect Continuous",
+    "explanation": "현재완료 진행형은 과거에 시작해서 현재까지 계속되는 행동을 나타냅니다.",
+    "rules": [
+      "주어 + have/has been + 동사-ing",
+      "과거부터 현재까지 계속된 행동",
+      "결과보다 행동의 지속성 강조"
+    ],
+    "exampleSentences": [
+      "I have been studying English for three hours.",
+      "She has been working here since 2020.",
+      "They have been waiting for you.",
+      "How long have you been living in Seoul?"
+    ],
+    "category": "tense",
+    "level": "advanced",
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "grammar_027",
+    "title": "Wish and If only",
+    "explanation": "Wish와 if only는 현재나 과거의 아쉬움을 표현할 때 사용합니다.",
+    "rules": [
+      "현재: wish + 과거 시제",
+      "과거: wish + had + 과거분사",
+      "if only도 같은 패턴"
+    ],
+    "exampleSentences": [
+      "I wish I were taller.",
+      "She wishes she had more free time.",
+      "I wish I had studied harder.",
+      "If only I could speak Spanish!"
+    ],
+    "category": "other",
+    "level": "advanced",
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "grammar_028",
+    "title": "Causative Verbs (have, get, make)",
+    "explanation": "사역동사는 다른 사람에게 무언가를 시키거나 하게 할 때 사용합니다.",
+    "rules": [
+      "have + 목적어 + 동사원형",
+      "get + 목적어 + to부정사",
+      "make + 목적어 + 동사원형"
+    ],
+    "exampleSentences": [
+      "I had my hair cut yesterday.",
+      "She got him to help her.",
+      "The teacher made us do our homework.",
+      "They had the house painted."
+    ],
+    "category": "other",
+    "level": "advanced",
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "grammar_029",
+    "title": "Inversion",
+    "explanation": "도치는 강조나 형식적인 문체를 위해 어순을 바꾸는 것입니다.",
+    "rules": [
+      "부정 부사구로 시작: Never/Rarely/Seldom + 동사 + 주어",
+      "only로 시작: Only then/Only after + 동사 + 주어",
+      "가정법: Had/Were/Should + 주어"
+    ],
+    "exampleSentences": [
+      "Never have I seen such a beautiful sunset.",
+      "Rarely does he arrive on time.",
+      "Only then did I realize my mistake.",
+      "Had I known, I would have come earlier."
+    ],
+    "category": "other",
+    "level": "advanced",
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "grammar_030",
+    "title": "Subjunctive Mood",
+    "explanation": "가정법은 제안, 요구, 중요성을 나타낼 때 사용합니다.",
+    "rules": [
+      "suggest/recommend/insist + that + 주어 + (should) + 동사원형",
+      "It is important/necessary + that + 주어 + (should) + 동사원형",
+      "should는 생략 가능"
+    ],
+    "exampleSentences": [
+      "I suggest that he study harder.",
+      "The doctor recommended that she take more rest.",
+      "It is important that everyone be on time.",
+      "They insisted that the meeting be postponed."
+    ],
+    "category": "other",
     "level": "advanced",
     "isDefault": true,
     "createdAt": "2024-01-01T00:00:00.000Z"

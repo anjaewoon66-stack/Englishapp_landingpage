@@ -91,141 +91,6 @@
   },
   {
     "id": "vocab_007",
-    "word": "achieve",
-    "meaning": "성취하다",
-    "pronunciation": "/əˈtʃiːv/",
-    "exampleSentences": [
-      "She achieved her goals.",
-      "We can achieve anything if we try hard."
-    ],
-    "partOfSpeech": "verb",
-    "category": "intermediate",
-    "isMemorized": false,
-    "isDefault": true,
-    "createdAt": "2024-01-01T00:00:00.000Z"
-  },
-  {
-    "id": "vocab_008",
-    "word": "communicate",
-    "meaning": "의사소통하다",
-    "pronunciation": "/kəˈmjuːnɪkeɪt/",
-    "exampleSentences": [
-      "It's important to communicate clearly.",
-      "They communicate via email."
-    ],
-    "partOfSpeech": "verb",
-    "category": "intermediate",
-    "isMemorized": false,
-    "isDefault": true,
-    "createdAt": "2024-01-01T00:00:00.000Z"
-  },
-  {
-    "id": "vocab_009",
-    "word": "develop",
-    "meaning": "발전시키다",
-    "pronunciation": "/dɪˈveləp/",
-    "exampleSentences": [
-      "We need to develop new skills.",
-      "The company is developing a new product."
-    ],
-    "partOfSpeech": "verb",
-    "category": "intermediate",
-    "isMemorized": false,
-    "isDefault": true,
-    "createdAt": "2024-01-01T00:00:00.000Z"
-  },
-  {
-    "id": "vocab_010",
-    "word": "challenge",
-    "meaning": "도전, 도전하다",
-    "pronunciation": "/ˈtʃælɪndʒ/",
-    "exampleSentences": [
-      "This is a big challenge for me.",
-      "I like to challenge myself."
-    ],
-    "partOfSpeech": "noun/verb",
-    "category": "intermediate",
-    "isMemorized": false,
-    "isDefault": true,
-    "createdAt": "2024-01-01T00:00:00.000Z"
-  },
-  {
-    "id": "vocab_011",
-    "word": "analyze",
-    "meaning": "분석하다",
-    "pronunciation": "/ˈænəlaɪz/",
-    "exampleSentences": [
-      "We need to analyze the data carefully.",
-      "Scientists analyze the results."
-    ],
-    "partOfSpeech": "verb",
-    "category": "advanced",
-    "isMemorized": false,
-    "isDefault": true,
-    "createdAt": "2024-01-01T00:00:00.000Z"
-  },
-  {
-    "id": "vocab_012",
-    "word": "comprehend",
-    "meaning": "이해하다, 파악하다",
-    "pronunciation": "/ˌkɑːmprɪˈhend/",
-    "exampleSentences": [
-      "It's difficult to comprehend the complexity.",
-      "Do you comprehend the situation?"
-    ],
-    "partOfSpeech": "verb",
-    "category": "advanced",
-    "isMemorized": false,
-    "isDefault": true,
-    "createdAt": "2024-01-01T00:00:00.000Z"
-  },
-  {
-    "id": "vocab_013",
-    "word": "demonstrate",
-    "meaning": "증명하다, 보여주다",
-    "pronunciation": "/ˈdemənstreɪt/",
-    "exampleSentences": [
-      "Let me demonstrate how it works.",
-      "The results demonstrate clear progress."
-    ],
-    "partOfSpeech": "verb",
-    "category": "advanced",
-    "isMemorized": false,
-    "isDefault": true,
-    "createdAt": "2024-01-01T00:00:00.000Z"
-  },
-  {
-    "id": "vocab_014",
-    "word": "evaluate",
-    "meaning": "평가하다",
-    "pronunciation": "/ɪˈvæljueɪt/",
-    "exampleSentences": [
-      "Teachers evaluate student performance.",
-      "We need to evaluate all options."
-    ],
-    "partOfSpeech": "verb",
-    "category": "advanced",
-    "isMemorized": false,
-    "isDefault": true,
-    "createdAt": "2024-01-01T00:00:00.000Z"
-  },
-  {
-    "id": "vocab_015",
-    "word": "implement",
-    "meaning": "실행하다, 구현하다",
-    "pronunciation": "/ˈɪmplɪment/",
-    "exampleSentences": [
-      "We will implement the new system next month.",
-      "It's time to implement our plan."
-    ],
-    "partOfSpeech": "verb",
-    "category": "advanced",
-    "isMemorized": false,
-    "isDefault": true,
-    "createdAt": "2024-01-01T00:00:00.000Z"
-  },
-  {
-    "id": "vocab_016",
     "word": "book",
     "meaning": "책",
     "pronunciation": "/bʊk/",
@@ -240,7 +105,7 @@
     "createdAt": "2024-01-01T00:00:00.000Z"
   },
   {
-    "id": "vocab_017",
+    "id": "vocab_008",
     "word": "teacher",
     "meaning": "선생님",
     "pronunciation": "/ˈtiːtʃər/",
@@ -255,7 +120,7 @@
     "createdAt": "2024-01-01T00:00:00.000Z"
   },
   {
-    "id": "vocab_018",
+    "id": "vocab_009",
     "word": "student",
     "meaning": "학생",
     "pronunciation": "/ˈstuːdnt/",
@@ -270,7 +135,82 @@
     "createdAt": "2024-01-01T00:00:00.000Z"
   },
   {
-    "id": "vocab_019",
+    "id": "vocab_010",
+    "word": "friend",
+    "meaning": "친구",
+    "pronunciation": "/frend/",
+    "exampleSentences": [
+      "She is my best friend.",
+      "I met my friends at the park."
+    ],
+    "partOfSpeech": "noun",
+    "category": "beginner",
+    "isMemorized": false,
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "vocab_011",
+    "word": "achieve",
+    "meaning": "성취하다",
+    "pronunciation": "/əˈtʃiːv/",
+    "exampleSentences": [
+      "She achieved her goals.",
+      "We can achieve anything if we try hard."
+    ],
+    "partOfSpeech": "verb",
+    "category": "intermediate",
+    "isMemorized": false,
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "vocab_012",
+    "word": "communicate",
+    "meaning": "의사소통하다",
+    "pronunciation": "/kəˈmjuːnɪkeɪt/",
+    "exampleSentences": [
+      "It's important to communicate clearly.",
+      "They communicate via email."
+    ],
+    "partOfSpeech": "verb",
+    "category": "intermediate",
+    "isMemorized": false,
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "vocab_013",
+    "word": "develop",
+    "meaning": "발전시키다",
+    "pronunciation": "/dɪˈveləp/",
+    "exampleSentences": [
+      "We need to develop new skills.",
+      "The company is developing a new product."
+    ],
+    "partOfSpeech": "verb",
+    "category": "intermediate",
+    "isMemorized": false,
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "vocab_014",
+    "word": "challenge",
+    "meaning": "도전, 도전하다",
+    "pronunciation": "/ˈtʃælɪndʒ/",
+    "exampleSentences": [
+      "This is a big challenge for me.",
+      "I like to challenge myself."
+    ],
+    "partOfSpeech": "noun",
+    "category": "intermediate",
+    "isMemorized": false,
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "vocab_015",
     "word": "knowledge",
     "meaning": "지식",
     "pronunciation": "/ˈnɑːlɪdʒ/",
@@ -285,7 +225,7 @@
     "createdAt": "2024-01-01T00:00:00.000Z"
   },
   {
-    "id": "vocab_020",
+    "id": "vocab_016",
     "word": "experience",
     "meaning": "경험",
     "pronunciation": "/ɪkˈspɪriəns/",
@@ -295,6 +235,216 @@
     ],
     "partOfSpeech": "noun",
     "category": "intermediate",
+    "isMemorized": false,
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "vocab_017",
+    "word": "opportunity",
+    "meaning": "기회",
+    "pronunciation": "/ˌɑːpərˈtuːnəti/",
+    "exampleSentences": [
+      "This is a great opportunity for you.",
+      "Don't miss this opportunity."
+    ],
+    "partOfSpeech": "noun",
+    "category": "intermediate",
+    "isMemorized": false,
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "vocab_018",
+    "word": "progress",
+    "meaning": "진전, 발전",
+    "pronunciation": "/ˈprɑːɡres/",
+    "exampleSentences": [
+      "We are making good progress.",
+      "Her English has shown great progress."
+    ],
+    "partOfSpeech": "noun",
+    "category": "intermediate",
+    "isMemorized": false,
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "vocab_019",
+    "word": "require",
+    "meaning": "필요로 하다",
+    "pronunciation": "/rɪˈkwaɪər/",
+    "exampleSentences": [
+      "This job requires special skills.",
+      "All students are required to attend."
+    ],
+    "partOfSpeech": "verb",
+    "category": "intermediate",
+    "isMemorized": false,
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "vocab_020",
+    "word": "contribute",
+    "meaning": "기여하다",
+    "pronunciation": "/kənˈtrɪbjuːt/",
+    "exampleSentences": [
+      "Everyone should contribute to the team.",
+      "She contributed many ideas to the project."
+    ],
+    "partOfSpeech": "verb",
+    "category": "intermediate",
+    "isMemorized": false,
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "vocab_021",
+    "word": "analyze",
+    "meaning": "분석하다",
+    "pronunciation": "/ˈænəlaɪz/",
+    "exampleSentences": [
+      "We need to analyze the data carefully.",
+      "Scientists analyze the results."
+    ],
+    "partOfSpeech": "verb",
+    "category": "advanced",
+    "isMemorized": false,
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "vocab_022",
+    "word": "comprehend",
+    "meaning": "이해하다, 파악하다",
+    "pronunciation": "/ˌkɑːmprɪˈhend/",
+    "exampleSentences": [
+      "It's difficult to comprehend the complexity.",
+      "Do you comprehend the situation?"
+    ],
+    "partOfSpeech": "verb",
+    "category": "advanced",
+    "isMemorized": false,
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "vocab_023",
+    "word": "demonstrate",
+    "meaning": "증명하다, 보여주다",
+    "pronunciation": "/ˈdemənstreɪt/",
+    "exampleSentences": [
+      "Let me demonstrate how it works.",
+      "The results demonstrate clear progress."
+    ],
+    "partOfSpeech": "verb",
+    "category": "advanced",
+    "isMemorized": false,
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "vocab_024",
+    "word": "evaluate",
+    "meaning": "평가하다",
+    "pronunciation": "/ɪˈvæljueɪt/",
+    "exampleSentences": [
+      "Teachers evaluate student performance.",
+      "We need to evaluate all options."
+    ],
+    "partOfSpeech": "verb",
+    "category": "advanced",
+    "isMemorized": false,
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "vocab_025",
+    "word": "implement",
+    "meaning": "실행하다, 구현하다",
+    "pronunciation": "/ˈɪmplɪment/",
+    "exampleSentences": [
+      "We will implement the new system next month.",
+      "It's time to implement our plan."
+    ],
+    "partOfSpeech": "verb",
+    "category": "advanced",
+    "isMemorized": false,
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "vocab_026",
+    "word": "sophisticated",
+    "meaning": "정교한, 세련된",
+    "pronunciation": "/səˈfɪstɪkeɪtɪd/",
+    "exampleSentences": [
+      "This is a sophisticated system.",
+      "She has sophisticated taste in art."
+    ],
+    "partOfSpeech": "adjective",
+    "category": "advanced",
+    "isMemorized": false,
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "vocab_027",
+    "word": "acknowledge",
+    "meaning": "인정하다, 인지하다",
+    "pronunciation": "/əkˈnɑːlɪdʒ/",
+    "exampleSentences": [
+      "He acknowledged his mistake.",
+      "We acknowledge your contribution to the project."
+    ],
+    "partOfSpeech": "verb",
+    "category": "advanced",
+    "isMemorized": false,
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "vocab_028",
+    "word": "perspective",
+    "meaning": "관점, 시각",
+    "pronunciation": "/pərˈspektɪv/",
+    "exampleSentences": [
+      "Try to see things from a different perspective.",
+      "His perspective on the issue is interesting."
+    ],
+    "partOfSpeech": "noun",
+    "category": "advanced",
+    "isMemorized": false,
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "vocab_029",
+    "word": "substantial",
+    "meaning": "상당한, 실질적인",
+    "pronunciation": "/səbˈstænʃl/",
+    "exampleSentences": [
+      "There has been substantial progress.",
+      "The company made a substantial profit."
+    ],
+    "partOfSpeech": "adjective",
+    "category": "advanced",
+    "isMemorized": false,
+    "isDefault": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "vocab_030",
+    "word": "synthesize",
+    "meaning": "종합하다, 합성하다",
+    "pronunciation": "/ˈsɪnθəsaɪz/",
+    "exampleSentences": [
+      "Scientists can synthesize new materials.",
+      "Try to synthesize the information from multiple sources."
+    ],
+    "partOfSpeech": "verb",
+    "category": "advanced",
     "isMemorized": false,
     "isDefault": true,
     "createdAt": "2024-01-01T00:00:00.000Z"
